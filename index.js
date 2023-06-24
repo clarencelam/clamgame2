@@ -89,7 +89,7 @@ function animate() {
     background.update()
     shop.update()
     player.update()
-    // enemy.update()
+    // enemy.update() test
 
     player.velocity.x = 0
     enemy.velocity.x = 0
