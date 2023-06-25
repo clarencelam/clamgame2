@@ -73,7 +73,7 @@ const player = new Fighter({
             x:0,
             y:0
         },
-        width: 100, //test
+        width: 100,
     }
 })
 
